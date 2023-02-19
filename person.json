@@ -1,0 +1,12 @@
+{
+             "person_name": "Sergey",
+	     "person_age": 32,
+	     "person_devices": {
+		                      "device_1" : "Xiaomi",
+				      "device_2" : "Xiaomi"
+	     }
+
+
+}
+
+
